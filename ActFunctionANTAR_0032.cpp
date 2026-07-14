@@ -14,4 +14,3 @@ string CekStatusBerparameter(float a){
     }
 }
 int main()
-{
