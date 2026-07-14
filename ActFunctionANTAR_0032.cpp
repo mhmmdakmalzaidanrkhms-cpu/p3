@@ -12,3 +12,6 @@ string CekStatusBerparameter(float a){
     } else {
         return "Tidak Lulus";
     }
+}
+int main()
+{
